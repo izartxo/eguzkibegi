@@ -41,6 +41,27 @@
         "ikonoa" : "0"
     }
     ]
+},
+{
+    "hilea" : "10",
+    "kodea" : "1001",
+    "dataeguna" : [{
+        "eguna" : "1",
+        "sarrera" : "10xxxxf",
+        "nagusia" : "10yyyyf",
+        "postrea" : "10zzzzf",
+        "ogia" : "0",
+        "ikonoa" : "0"
+    },
+    {
+        "eguna" : "2",
+        "sarrera" : "102xxxxf",
+        "nagusia" : "102yyyyf",
+        "postrea" : "102zzzzf",
+        "ogia" : "0",
+        "ikonoa" : "0"
+    }
+    ]
 }
 ]
 }
