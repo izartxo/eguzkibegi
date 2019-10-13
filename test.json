@@ -55,9 +55,9 @@
     },
     {
         "eguna" : "2",
-        "sarrera" : "102xxxxf",
-        "nagusia" : "102yyyyf",
-        "postrea" : "102zzzzf",
+        "sarrera" : "u102xxxxf",
+        "nagusia" : "u102yyyyf",
+        "postrea" : "u102zzzzf",
         "ogia" : "0",
         "ikonoa" : "0"
     }
