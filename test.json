@@ -1,0 +1,46 @@
+{
+"urtea" : "2019",
+"data" : [{
+    "hilea" : "1",
+    "kodea" : "0101",
+    "dataeguna" : [{
+        "eguna" : "1",
+        "sarrera" : "xxxx",
+        "nagusia" : "yyyy",
+        "postrea" : "zzzz",
+        "ogia" : "0",
+        "ikonoa" : "0"
+    },
+    {
+        "eguna" : "2",
+        "sarrera" : "2xxxx",
+        "nagusia" : "2yyyy",
+        "postrea" : "2zzzz",
+        "ogia" : "0",
+        "ikonoa" : "0"
+    }
+    ]
+    },
+    {
+    "hilea" : "2",
+    "kodea" : "0201",
+    "dataeguna" : [{
+        "eguna" : "1",
+        "sarrera" : "xxxxf",
+        "nagusia" : "yyyyf",
+        "postrea" : "zzzzf",
+        "ogia" : "0",
+        "ikonoa" : "0"
+    },
+    {
+        "eguna" : "2",
+        "sarrera" : "2xxxxf",
+        "nagusia" : "2yyyyf",
+        "postrea" : "2zzzzf",
+        "ogia" : "0",
+        "ikonoa" : "0"
+    }
+    ]
+}
+]
+}
