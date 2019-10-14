@@ -60,7 +60,31 @@
         "postrea" : "u102zzzzf",
         "ogia" : "0",
         "ikonoa" : "0"
-    }
+    },
+    {
+        "eguna" : "3",
+        "sarrera" : "u102xxxxf",
+        "nagusia" : "u102yyyyf",
+        "postrea" : "u102zzzzf",
+        "ogia" : "0",
+        "ikonoa" : "0"
+    },
+    {
+        "eguna" : "4",
+        "sarrera" : "u102xxxxf",
+        "nagusia" : "u102yyyyf",
+        "postrea" : "u102zzzzf",
+        "ogia" : "0",
+        "ikonoa" : "0"
+    },
+    {
+        "eguna" : "7",
+        "sarrera" : "u102xxxxf",
+        "nagusia" : "u102yyyyf",
+        "postrea" : "u102zzzzf",
+        "ogia" : "0",
+        "ikonoa" : "0"
+    }               
     ]
 }
 ]
