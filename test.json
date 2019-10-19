@@ -47,6 +47,62 @@
     "kodea" : "1001",
     "dataeguna" : [{
         "eguna" : "1",
+        "sarrera" : "1xxxxf",
+        "nagusia" : "1yyyyf",
+        "postrea" : "1zzzzf",
+        "ogia" : "0",
+        "ikonoa" : "0"
+    },
+    {
+        "eguna" : "2",
+        "sarrera" : "2xxxxf",
+        "nagusia" : "2yyyyf",
+        "postrea" : "2zzzzf",
+        "ogia" : "0",
+        "ikonoa" : "0"
+    },
+    {
+        "eguna" : "3",
+        "sarrera" : "3xxxxf",
+        "nagusia" : "3yyyyf",
+        "postrea" : "3zzzzf",
+        "ogia" : "0",
+        "ikonoa" : "0"
+    },
+    {
+        "eguna" : "4",
+        "sarrera" : "4xxxxf",
+        "nagusia" : "4yyyyf",
+        "postrea" : "4zzzzf",
+        "ogia" : "0",
+        "ikonoa" : "0"
+    },
+    {
+        "eguna" : "7",
+        "sarrera" : "7xxxxf",
+        "nagusia" : "7yyyyf",
+        "postrea" : "7zzzzf",
+        "ogia" : "0",
+        "ikonoa" : "0"
+    },
+    {
+        "eguna" : "8",
+        "sarrera" : "8xxxxf",
+        "nagusia" : "8yyyyf",
+        "postrea" : "8zzzzf",
+        "ogia" : "0",
+        "ikonoa" : "0"
+    },
+    {
+        "eguna" : "9",
+        "sarrera" : "9xxxxf",
+        "nagusia" : "9yyyyf",
+        "postrea" : "9zzzzf",
+        "ogia" : "0",
+        "ikonoa" : "0"
+    },
+    {
+        "eguna" : "10",
         "sarrera" : "10xxxxf",
         "nagusia" : "10yyyyf",
         "postrea" : "10zzzzf",
@@ -54,186 +110,130 @@
         "ikonoa" : "0"
     },
     {
-        "eguna" : "2",
-        "sarrera" : "u102xxxxf",
-        "nagusia" : "u102yyyyf",
-        "postrea" : "u102zzzzf",
-        "ogia" : "0",
-        "ikonoa" : "0"
-    },
-    {
-        "eguna" : "3",
-        "sarrera" : "u102xxxxf",
-        "nagusia" : "u102yyyyf",
-        "postrea" : "u102zzzzf",
-        "ogia" : "0",
-        "ikonoa" : "0"
-    },
-    {
-        "eguna" : "4",
-        "sarrera" : "u102xxxxf",
-        "nagusia" : "u102yyyyf",
-        "postrea" : "u102zzzzf",
-        "ogia" : "0",
-        "ikonoa" : "0"
-    },
-    {
-        "eguna" : "7",
-        "sarrera" : "u102xxxxf",
-        "nagusia" : "u102yyyyf",
-        "postrea" : "u102zzzzf",
-        "ogia" : "0",
-        "ikonoa" : "0"
-    },
-    {
-        "eguna" : "8",
-        "sarrera" : "u102xxxxf",
-        "nagusia" : "u102yyyyf",
-        "postrea" : "u102zzzzf",
-        "ogia" : "0",
-        "ikonoa" : "0"
-    },
-    {
-        "eguna" : "9",
-        "sarrera" : "u102xxxxf",
-        "nagusia" : "u102yyyyf",
-        "postrea" : "u102zzzzf",
-        "ogia" : "0",
-        "ikonoa" : "0"
-    },
-    {
-        "eguna" : "10",
-        "sarrera" : "u102xxxxf",
-        "nagusia" : "u102yyyyf",
-        "postrea" : "u102zzzzf",
-        "ogia" : "0",
-        "ikonoa" : "0"
-    },
-    {
         "eguna" : "11",
-        "sarrera" : "u102xxxxf",
-        "nagusia" : "u102yyyyf",
-        "postrea" : "u102zzzzf",
+        "sarrera" : "11xxxxf",
+        "nagusia" : "11yyyyf",
+        "postrea" : "11zzzzf",
         "ogia" : "0",
         "ikonoa" : "0"
     },
     {
         "eguna" : "14",
-        "sarrera" : "u102xxxxf",
-        "nagusia" : "u102yyyyf",
-        "postrea" : "u102zzzzf",
+        "sarrera" : "12xxxxf",
+        "nagusia" : "12yyyyf",
+        "postrea" : "12zzzzf",
         "ogia" : "0",
         "ikonoa" : "0"
     },
     {
         "eguna" : "15",
-        "sarrera" : "u102xxxxf",
-        "nagusia" : "u102yyyyf",
-        "postrea" : "u102zzzzf",
+        "sarrera" : "15xxxxf",
+        "nagusia" : "15yyyyf",
+        "postrea" : "15zzzzf",
         "ogia" : "0",
         "ikonoa" : "0"
     },
     {
         "eguna" : "16",
-        "sarrera" : "u102xxxxf",
-        "nagusia" : "u102yyyyf",
-        "postrea" : "u102zzzzf",
+        "sarrera" : "16xxxxf",
+        "nagusia" : "16yyyyf",
+        "postrea" : "16zzzzf",
         "ogia" : "0",
         "ikonoa" : "0"
     },
     {
         "eguna" : "17",
-        "sarrera" : "u102xxxxf",
-        "nagusia" : "u102yyyyf",
-        "postrea" : "u102zzzzf",
+        "sarrera" : "17xxxxf",
+        "nagusia" : "17yyyyf",
+        "postrea" : "17zzzzf",
         "ogia" : "0",
         "ikonoa" : "0"
     },
     {
         "eguna" : "18",
-        "sarrera" : "u102xxxxf",
-        "nagusia" : "u102yyyyf",
-        "postrea" : "u102zzzzf",
+        "sarrera" : "18xxxxf",
+        "nagusia" : "18yyyyf",
+        "postrea" : "18zzzzf",
         "ogia" : "0",
         "ikonoa" : "0"
     },
     {
         "eguna" : "20",
-        "sarrera" : "u102xxxxf",
-        "nagusia" : "u102yyyyf",
-        "postrea" : "u102zzzzf",
+        "sarrera" : "20xxxxf",
+        "nagusia" : "20yyyyf",
+        "postrea" : "20zzzzf",
         "ogia" : "0",
         "ikonoa" : "0"
     },
     {
         "eguna" : "21",
-        "sarrera" : "u102xxxxf",
-        "nagusia" : "u102yyyyf",
-        "postrea" : "u102zzzzf",
+        "sarrera" : "21xxxxf",
+        "nagusia" : "21yyyyf",
+        "postrea" : "21zzzzf",
         "ogia" : "0",
         "ikonoa" : "0"
     },
     {
         "eguna" : "22",
-        "sarrera" : "u102xxxxf",
-        "nagusia" : "u102yyyyf",
-        "postrea" : "u102zzzzf",
+        "sarrera" : "22xxxxf",
+        "nagusia" : "22yyyyf",
+        "postrea" : "22zzzzf",
         "ogia" : "0",
         "ikonoa" : "0"
     },
     {
         "eguna" : "23",
-        "sarrera" : "u102xxxxf",
-        "nagusia" : "u102yyyyf",
-        "postrea" : "u102zzzzf",
+        "sarrera" : "23xxxxf",
+        "nagusia" : "23yyyyf",
+        "postrea" : "23zzzzf",
         "ogia" : "0",
         "ikonoa" : "0"
     },
     {
         "eguna" : "24",
-        "sarrera" : "u102xxxxf",
-        "nagusia" : "u102yyyyf",
-        "postrea" : "u102zzzzf",
+        "sarrera" : "24xxxxf",
+        "nagusia" : "24yyyyf",
+        "postrea" : "24zzzzf",
         "ogia" : "0",
         "ikonoa" : "0"
     },
     {
         "eguna" : "25",
-        "sarrera" : "u102xxxxf",
-        "nagusia" : "u102yyyyf",
-        "postrea" : "u102zzzzf",
+        "sarrera" : "25xxxxf",
+        "nagusia" : "25yyyyf",
+        "postrea" : "25zzzzf",
         "ogia" : "0",
         "ikonoa" : "0"
     },
     {
         "eguna" : "28",
-        "sarrera" : "u102xxxxf",
-        "nagusia" : "u102yyyyf",
-        "postrea" : "u102zzzzf",
+        "sarrera" : "28xxxxf",
+        "nagusia" : "28yyyyf",
+        "postrea" : "28zzzzf",
         "ogia" : "0",
         "ikonoa" : "0"
     },
     {
         "eguna" : "29",
-        "sarrera" : "u102xxxxf",
-        "nagusia" : "u102yyyyf",
-        "postrea" : "u102zzzzf",
+        "sarrera" : "29xxxxf",
+        "nagusia" : "29yyyyf",
+        "postrea" : "29zzzzf",
         "ogia" : "0",
         "ikonoa" : "0"
     },
     {
         "eguna" : "30",
-        "sarrera" : "u102xxxxf",
-        "nagusia" : "u102yyyyf",
-        "postrea" : "u102zzzzf",
+        "sarrera" : "30xxxxf",
+        "nagusia" : "30yyyyf",
+        "postrea" : "30zzzzf",
         "ogia" : "0",
         "ikonoa" : "0"
     },
     {
         "eguna" : "31",
-        "sarrera" : "u102xxxxf",
-        "nagusia" : "u102yyyyf",
-        "postrea" : "u102zzzzf",
+        "sarrera" : "31xxxxf",
+        "nagusia" : "31yyyyf",
+        "postrea" : "31zzzzf",
         "ogia" : "0",
         "ikonoa" : "0"
     }
