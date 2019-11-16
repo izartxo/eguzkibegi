@@ -43,8 +43,8 @@
     ]
 },
 {
-    "hilea" : "10",
-    "kodea" : "1001",
+    "hilea" : "11",
+    "kodea" : "1101",
     "dataeguna" : [{
         "eguna" : "1",
         "sarrera" : "1xxxxf",
@@ -127,15 +127,15 @@
     },
     {
         "eguna" : "15",
-        "sarrera" : "15xxxxf",
-        "nagusia" : "15yyyyf",
-        "postrea" : "15zzzzf",
+        "sarrera" : "Barazki paella",
+        "nagusia" : "Legatz xerra erromako erara urazarekin",
+        "postrea" : "Fruta",
         "ogia" : "0",
         "ikonoa" : "0"
     },
     {
         "eguna" : "16",
-        "sarrera" : "16xxxxf",
+        "sarrera" : "16xxxx",
         "nagusia" : "16yyyyf",
         "postrea" : "16zzzzf",
         "ogia" : "0",
@@ -151,8 +151,8 @@
     },
     {
         "eguna" : "18",
-        "sarrera" : "Indaba zuriak",
-        "nagusia" : "Hanburgesa",
+        "sarrera" : "Patatak errioxar erara",
+        "nagusia" : "Oilasko paparra saltsa gazi-gezan asiar barazkiekin",
         "postrea" : "Fruta",
         "ogia" : "0",
         "ikonoa" : "0"
