@@ -47,81 +47,81 @@
     "kodea" : "1101",
     "dataeguna" : [{
         "eguna" : "1",
-        "sarrera" : "1xxxxf",
-        "nagusia" : "1yyyyf",
-        "postrea" : "1zzzzf",
-        "ogia" : "0",
-        "ikonoa" : "0"
-    },
-    {
-        "eguna" : "2",
-        "sarrera" : "2xxxxf",
-        "nagusia" : "2yyyyf",
-        "postrea" : "2zzzzf",
-        "ogia" : "0",
-        "ikonoa" : "0"
-    },
-    {
-        "eguna" : "3",
-        "sarrera" : "3xxxxf",
-        "nagusia" : "3yyyyf",
-        "postrea" : "3zzzzf",
+        "sarrera" : "JAIA",
+        "nagusia" : "JAIA",
+        "postrea" : "JAIA",
         "ogia" : "0",
         "ikonoa" : "0"
     },
     {
         "eguna" : "4",
-        "sarrera" : "4xxxxf",
-        "nagusia" : "4yyyyf",
-        "postrea" : "4zzzzf",
+        "sarrera" : "Azalorea patatekin",
+        "nagusia" : "Kroketak tomate entsaladarekin",
+        "postrea" : "Fruta",
+        "ogia" : "0",
+        "ikonoa" : "0"
+    },
+    {
+        "eguna" : "5",
+        "sarrera" : "Eltzeko zopa kinoa eta arrautzarekin",
+        "nagusia" : "Pernil xerra piper gorriekin",
+        "postrea" : "Fruta",
+        "ogia" : "0",
+        "ikonoa" : "0"
+    },
+    {
+        "eguna" : "6",
+        "sarrera" : "Txitxirioak",
+        "nagusia" : "Patata eta kalabazin tortilla urazarekin",
+        "postrea" : "Fruta",
         "ogia" : "0",
         "ikonoa" : "0"
     },
     {
         "eguna" : "7",
-        "sarrera" : "7xxxxf",
-        "nagusia" : "7yyyyf",
-        "postrea" : "7zzzzf",
+        "sarrera" : "Espirlaka napolitar erara",
+        "nagusia" : "Legatz freskoa labean mahonesarekin",
+        "postrea" : "Jogurta edo fruta",
         "ogia" : "0",
         "ikonoa" : "0"
     },
     {
         "eguna" : "8",
-        "sarrera" : "8xxxxf",
-        "nagusia" : "8yyyyf",
-        "postrea" : "8zzzzf",
-        "ogia" : "0",
-        "ikonoa" : "0"
-    },
-    {
-        "eguna" : "9",
-        "sarrera" : "9xxxxf",
-        "nagusia" : "9yyyyf",
-        "postrea" : "9zzzzf",
-        "ogia" : "0",
-        "ikonoa" : "0"
-    },
-    {
-        "eguna" : "10",
-        "sarrera" : "10xxxxf",
-        "nagusia" : "10yyyyf",
-        "postrea" : "10zzzzf",
+        "sarrera" : "Etxeko entsalada",
+        "nagusia" : "Arroza tomatearekin",
+        "postrea" : "Fruta",
         "ogia" : "0",
         "ikonoa" : "0"
     },
     {
         "eguna" : "11",
-        "sarrera" : "11xxxxf",
-        "nagusia" : "11yyyyf",
-        "postrea" : "11zzzzf",
+        "sarrera" : "Azenario purea",
+        "nagusia" : "Albondigak saltsan barazkitxoarekin",
+        "postrea" : "Fruta",
+        "ogia" : "0",
+        "ikonoa" : "0"
+    },
+    {
+        "eguna" : "12",
+        "sarrera" : "Dilistak gaztelako erara",
+        "nagusia" : "Berdela labean panadera patatarekin",
+        "postrea" : "Fruta",
+        "ogia" : "0",
+        "ikonoa" : "0"
+    },
+    {
+        "eguna" : "13",
+        "sarrera" : "Indaba gorriak",
+        "nagusia" : "Patata tortilla 4 urtarako entsaladarekin",
+        "postrea" : "Jogurta edo fruta",
         "ogia" : "0",
         "ikonoa" : "0"
     },
     {
         "eguna" : "14",
-        "sarrera" : "12xxxxf",
-        "nagusia" : "12yyyyf",
-        "postrea" : "12zzzzf",
+        "sarrera" : "Arrain zopa",
+        "nagusia" : "Txahal xerra piper gorriarekin",
+        "postrea" : "Fruta",
         "ogia" : "0",
         "ikonoa" : "0"
     },
@@ -134,106 +134,82 @@
         "ikonoa" : "0"
     },
     {
-        "eguna" : "16",
-        "sarrera" : "16xxxx",
-        "nagusia" : "16yyyyf",
-        "postrea" : "16zzzzf",
-        "ogia" : "0",
-        "ikonoa" : "0"
-    },
-    {
-        "eguna" : "17",
-        "sarrera" : "17xxxxf",
-        "nagusia" : "17yyyyf",
-        "postrea" : "17zzzzf",
-        "ogia" : "0",
-        "ikonoa" : "0"
-    },
-    {
         "eguna" : "18",
-        "sarrera" : "Patatak errioxar erara",
+        "sarrera" : "Patatak errioxako erara",
         "nagusia" : "Oilasko paparra saltsa gazi-gezan asiar barazkiekin",
         "postrea" : "Fruta",
         "ogia" : "0",
         "ikonoa" : "0"
     },
     {
-        "eguna" : "20",
-        "sarrera" : "20xxxxf",
-        "nagusia" : "20yyyyf",
-        "postrea" : "20zzzzf",
-        "ogia" : "0",
-        "ikonoa" : "0"
-    },
-    {
-        "eguna" : "21",
-        "sarrera" : "21xxxxf",
-        "nagusia" : "21yyyyf",
-        "postrea" : "21zzzzf",
-        "ogia" : "0",
-        "ikonoa" : "0"
-    },
-    {
-        "eguna" : "22",
-        "sarrera" : "22xxxxf",
-        "nagusia" : "22yyyyf",
-        "postrea" : "22zzzzf",
-        "ogia" : "0",
-        "ikonoa" : "0"
-    },
-    {
-        "eguna" : "23",
-        "sarrera" : "23xxxxf",
-        "nagusia" : "23yyyyf",
-        "postrea" : "23zzzzf",
-        "ogia" : "0",
-        "ikonoa" : "0"
-    },
-    {
-        "eguna" : "24",
-        "sarrera" : "24xxxxf",
-        "nagusia" : "24yyyyf",
-        "postrea" : "24zzzzf",
-        "ogia" : "0",
-        "ikonoa" : "0"
-    },
-    {
-        "eguna" : "25",
-        "sarrera" : "25xxxxf",
-        "nagusia" : "25yyyyf",
-        "postrea" : "25zzzzf",
-        "ogia" : "0",
-        "ikonoa" : "0"
-    },
-    {
-        "eguna" : "28",
-        "sarrera" : "28xxxxf",
-        "nagusia" : "28yyyyf",
-        "postrea" : "28zzzzf",
-        "ogia" : "0",
-        "ikonoa" : "0"
-    },
-    {
-        "eguna" : "29",
-        "sarrera" : "29xxxxf",
-        "nagusia" : "29yyyyf",
-        "postrea" : "29zzzzf",
-        "ogia" : "0",
-        "ikonoa" : "0"
-    },
-    {
-        "eguna" : "30",
-        "sarrera" : "Barazki purea",
-        "nagusia" : "Bakailao ajoarriero",
+        "eguna" : "19",
+        "sarrera" : "Dilistak porru eta kalabzarekin",
+        "nagusia" : "Bakailaoa ajoarriero erara",
         "postrea" : "Fruta",
         "ogia" : "0",
         "ikonoa" : "0"
     },
     {
-        "eguna" : "31",
-        "sarrera" : "31xxxxf",
-        "nagusia" : "31yyyyf",
-        "postrea" : "31zzzzf",
+        "eguna" : "20",
+        "sarrera" : "Lekak patatekin",
+        "nagusia" : "Arrautza egosiak piperradarekin",
+        "postrea" : "Fruta",
+        "ogia" : "0",
+        "ikonoa" : "0"
+    },
+    {
+        "eguna" : "21",
+        "sarrera" : "Zerbreaa purea",
+        "nagusia" : "Legatz solomoak labean urazarekin",
+        "postrea" : "Fruta",
+        "ogia" : "0",
+        "ikonoa" : "0"
+    },
+    {
+        "eguna" : "22",
+        "sarrera" : "Makarroiak kalabazin eta barrengorriekin saltseatuak",
+        "nagusia" : "Txahal gisatuak",
+        "postrea" : "Jogurta edo fruta",
+        "ogia" : "0",
+        "ikonoa" : "0"
+    },
+    {
+        "eguna" : "25",
+        "sarrera" : "Arroza tomatearekin",
+        "nagusia" : "%100 txahal hanburgesa patata frijituekin",
+        "postrea" : "Fruta",
+        "ogia" : "0",
+        "ikonoa" : "0"
+    },
+    {
+        "eguna" : "26",
+        "sarrera" : "Dilistak",
+        "nagusia" : "Patata tortilla 4 urtarako entsaladarekin",
+        "postrea" : "Fruta",
+        "ogia" : "0",
+        "ikonoa" : "0"
+    },
+    {
+        "eguna" : "27",
+        "sarrera" : "Txitxirioak",
+        "nagusia" : "Legatz xerra erromako erara limoiarekin",
+        "postrea" : "Gaztatxoa eta irasgarra",
+        "ogia" : "0",
+        "ikonoa" : "0"
+    },
+    {
+        "eguna" : "28",
+        "sarrera" : "Kalabaza eta gazta krea",
+        "nagusia" : "Solomo freskoa tomate entsaladarekin",
+        "postrea" : "Fruta",
+        "ogia" : "0",
+        "ikonoa" : "0"
+    },
+    {
+        "eguna" : "29",
+        "sarrera" : "Makarroiak tomatearekin",
+        "nagusia" : "Olasko izter errea txanpiekin",
+        "postrea" : "Fruta",
         "ogia" : "0",
         "ikonoa" : "0"
     }
