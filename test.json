@@ -1,6 +1,6 @@
 {
 "urtea" : "2019",
-"superkode" : "1102",
+"superkode" : "1103",
 "data" : [{
     "hilea" : "1",
     "kodea" : "0101",
@@ -46,14 +46,7 @@
 {
     "hilea" : "11",
     "kodea" : "1101",
-    "dataeguna" : [{
-        "eguna" : "1",
-        "sarrera" : "JAIA",
-        "nagusia" : "JAIA",
-        "postrea" : "JAIA",
-        "ogia" : "0",
-        "ikonoa" : "0"
-    },
+    "dataeguna" : [
     {
         "eguna" : "4",
         "sarrera" : "Azalorea patatekin",
