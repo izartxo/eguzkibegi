@@ -1,6 +1,6 @@
 {
 "urtea" : "2019",
-"superkode" : "1105",
+"superkode" : "1106",
 "data" : [{
     "hilea" : "1",
     "kodea" : "0101",
@@ -51,7 +51,7 @@
         "eguna" : "4",
         "sarrera" : "Azalorea patatekin",
         "nagusia" : "Kroketak tomate entsaladarekin",
-        "postrea" : "Fruta",
+        "postrea" : "xxxFruta",
         "ogia" : "0",
         "ikonoa" : "0"
     },
