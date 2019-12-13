@@ -1,6 +1,6 @@
 {
 "urtea" : "2019",
-"superkode" : "1101",
+"superkode" : "1201",
 "data" : [{
     "hilea" : "1",
     "kodea" : "0101",
@@ -48,7 +48,7 @@
     "kodea" : "1101",
     "dataeguna" : [
     {
-        "eguna" : "4",
+        "eguna" : "2",
         "sarrera" : "Azalorea patatekin",
         "nagusia" : "Kroketak tomate entsaladarekin",
         "postrea" : "xxxFruta",
@@ -56,7 +56,7 @@
         "ikonoa" : "0"
     },
     {
-        "eguna" : "5",
+        "eguna" : "3",
         "sarrera" : "Eltzeko zopa kinoa eta arrautzarekin",
         "nagusia" : "Pernil xerra piper gorriekin",
         "postrea" : "Fruta",
@@ -64,7 +64,7 @@
         "ikonoa" : "0"
     },
     {
-        "eguna" : "6",
+        "eguna" : "4",
         "sarrera" : "Txitxirioak",
         "nagusia" : "Patata eta kalabazin tortilla urazarekin",
         "postrea" : "Fruta",
@@ -72,7 +72,7 @@
         "ikonoa" : "0"
     },
     {
-        "eguna" : "7",
+        "eguna" : "5",
         "sarrera" : "Espirlaka napolitar erara",
         "nagusia" : "Legatz freskoa labean mahonesarekin",
         "postrea" : "Jogurta edo fruta",
@@ -80,7 +80,7 @@
         "ikonoa" : "0"
     },
     {
-        "eguna" : "8",
+        "eguna" : "6",
         "sarrera" : "Etxeko entsalada",
         "nagusia" : "Arroza tomatearekin",
         "postrea" : "Fruta",
@@ -88,7 +88,7 @@
         "ikonoa" : "0"
     },
     {
-        "eguna" : "11",
+        "eguna" : "9",
         "sarrera" : "Azenario purea",
         "nagusia" : "Albondigak saltsan barazkitxoarekin",
         "postrea" : "Fruta",
@@ -96,7 +96,7 @@
         "ikonoa" : "0"
     },
     {
-        "eguna" : "12",
+        "eguna" : "10",
         "sarrera" : "Dilistak gaztelako erara",
         "nagusia" : "Berdela labean panadera patatarekin",
         "postrea" : "Fruta",
@@ -104,7 +104,7 @@
         "ikonoa" : "0"
     },
     {
-        "eguna" : "13",
+        "eguna" : "11",
         "sarrera" : "Indaba gorriak",
         "nagusia" : "Patata tortilla 4 urtarako entsaladarekin",
         "postrea" : "Jogurta edo fruta",
@@ -112,7 +112,7 @@
         "ikonoa" : "0"
     },
     {
-        "eguna" : "14",
+        "eguna" : "12",
         "sarrera" : "Arrain zopa",
         "nagusia" : "Txahal xerra piper gorriarekin",
         "postrea" : "Fruta",
@@ -120,7 +120,7 @@
         "ikonoa" : "0"
     },
     {
-        "eguna" : "15",
+        "eguna" : "13",
         "sarrera" : "Barazki paella",
         "nagusia" : "Legatz xerra erromako erara urazarekin",
         "postrea" : "Fruta",
@@ -128,7 +128,7 @@
         "ikonoa" : "0"
     },
     {
-        "eguna" : "18",
+        "eguna" : "16",
         "sarrera" : "Patatak errioxako erara",
         "nagusia" : "Oilasko paparra saltsa gazi-gezan asiar barazkiekin",
         "postrea" : "Fruta",
@@ -136,7 +136,7 @@
         "ikonoa" : "0"
     },
     {
-        "eguna" : "19",
+        "eguna" : "17",
         "sarrera" : "Dilistak porru eta kalabzarekin",
         "nagusia" : "Bakailaoa ajoarriero erara",
         "postrea" : "Fruta",
@@ -144,7 +144,7 @@
         "ikonoa" : "0"
     },
     {
-        "eguna" : "20",
+        "eguna" : "18",
         "sarrera" : "Lekak patatekin",
         "nagusia" : "Arrautza egosiak piperradarekin",
         "postrea" : "Fruta",
@@ -152,7 +152,7 @@
         "ikonoa" : "0"
     },
     {
-        "eguna" : "21",
+        "eguna" : "19",
         "sarrera" : "Zerbreaa purea",
         "nagusia" : "Legatz solomoak labean urazarekin",
         "postrea" : "Fruta",
@@ -160,7 +160,7 @@
         "ikonoa" : "0"
     },
     {
-        "eguna" : "22",
+        "eguna" : "20",
         "sarrera" : "Makarroiak kalabazin eta barrengorriekin saltseatuak",
         "nagusia" : "Txahal gisatuak",
         "postrea" : "Jogurta edo fruta",
@@ -168,7 +168,7 @@
         "ikonoa" : "0"
     },
     {
-        "eguna" : "25",
+        "eguna" : "23",
         "sarrera" : "Arroza tomatearekin",
         "nagusia" : "%100 txahal hanburgesa patata frijituekin",
         "postrea" : "Fruta",
@@ -176,7 +176,7 @@
         "ikonoa" : "0"
     },
     {
-        "eguna" : "26",
+        "eguna" : "24",
         "sarrera" : "Dilistak",
         "nagusia" : "Patata tortilla 4 urtarako entsaladarekin",
         "postrea" : "Fruta",
@@ -184,7 +184,7 @@
         "ikonoa" : "0"
     },
     {
-        "eguna" : "27",
+        "eguna" : "25",
         "sarrera" : "Txitxirioak",
         "nagusia" : "Legatz xerra erromako erara limoiarekin",
         "postrea" : "Gaztatxoa eta irasgarra",
@@ -192,7 +192,7 @@
         "ikonoa" : "0"
     },
     {
-        "eguna" : "28",
+        "eguna" : "26",
         "sarrera" : "Kalabaza eta gazta krea",
         "nagusia" : "Solomo freskoa tomate entsaladarekin",
         "postrea" : "Fruta",
@@ -200,7 +200,7 @@
         "ikonoa" : "0"
     },
     {
-        "eguna" : "29",
+        "eguna" : "27",
         "sarrera" : "Makarroiak tomatearekin",
         "nagusia" : "Olasko izter errea txanpiekin",
         "postrea" : "Fruta",
