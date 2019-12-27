@@ -1,6 +1,6 @@
 {
 "urtea" : "2019",
-"superkode" : "1301",
+"superkode" : "1401",
 "data" : [{
     "hilea" : "1",
     "kodea" : "0101",
@@ -211,7 +211,7 @@
 },
 {
     "hilea" : "12",
-    "kodea" : "1301",
+    "kodea" : "1401",
     "dataeguna" : [
     {
         "eguna" : "2",
