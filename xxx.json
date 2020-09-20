@@ -1,6 +1,27 @@
-{
+[
+  {
   "eguna": "1",
   "first": "daklsdjklads",
   "second": "fwonefiwnef",
   "postre": "deedffewef"
-}
+  },
+  {
+  "eguna": "2",
+  "first": "2daklsdjklads",
+  "second": "2fwonefiwnef",
+  "postre": "2deedffewef"
+  },
+  {
+  "eguna": "3",
+  "first": "3daklsdjklads",
+  "second": "3fwonefiwnef",
+  "postre": "3deedffewef"
+  },
+  {
+  "eguna": "4",
+  "first": "4daklsdjklads",
+  "second": "4fwonefiwnef",
+  "postre": "4deedffewef"
+  }  
+]
+
