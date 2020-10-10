@@ -3,11 +3,31 @@
 "hilea":"10",
 "egunak":[
   {
-  "eguna":"1",
+  "eguna":"0",
   "lehengoa":"11",
   "bigarrena":"12",
   "postrea":"13",
   "ikonoa":"true"
+  },
+  {
+  "eguna":"0",
+  "lehengoa":"21",
+  "bigarrena":"22",
+  "postrea":"23",
+  "ikonoa":"true"
+  },
+  {
+  "eguna":"0",
+  "lehengoa":"31",
+  "bigarrena":"32",
+  "postrea":"33",
+  "ikonoa":"true"
+  },
+  "eguna":"1",
+  "lehengoa":"11",
+  "bigarrena":"12",
+  "postrea":"13",
+  "ikonoa":""
   },
   {
   "eguna":"2",
