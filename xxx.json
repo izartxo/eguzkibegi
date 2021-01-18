@@ -7,210 +7,330 @@
   "lehengoa":"menestra",
   "bigarrena":"okel egosia",
   "postrea":"yogurta",
-  "ikonoa":"1 5 8"
+  "ikonoa":"1 5 8",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   },
   {
   "eguna":"0",
   "lehengoa":"menestra",
   "bigarrena":"okel egosia",
   "postrea":"yogurta",
-  "ikonoa":"1 5 8"
+  "ikonoa":"1 5 8",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   },
   {
   "eguna":"0",
   "lehengoa":"menestra",
   "bigarrena":"okel egosia",
   "postrea":"yogurta",
-  "ikonoa":"1 5 8"
+  "ikonoa":"1 5 8",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   },
   {
   "eguna":"0",
   "lehengoa":"menestra",
   "bigarrena":"okel egosia",
   "postrea":"yogurta",
-  "ikonoa":"1 5 8"
+  "ikonoa":"1 5 8",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   },
   {
   "eguna":"F",
   "lehengoa":"menestra",
   "bigarrena":"okel egosia",
   "postrea":"yogurta",
-  "ikonoa":"1 5 8"
+  "ikonoa":"1 5 8",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   },
   {
   "eguna":"4",
   "lehengoa":"Arroza tomatearekin",
   "bigarrena":"Legatz xerra labean ilarrekin",
   "postrea":"Fruta",
-  "ikonoa":"3 4 7"
+  "ikonoa":"3 4 7",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   },
   {
   "eguna":"5",
   "lehengoa":"barazki purea",
   "bigarrena":"solomo ontzatua plantxan",
   "postrea":"Fruta",
-  "ikonoa":"1 5 7"
+  "ikonoa":"1 5 7",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   },
   {
   "eguna":"F",
   "lehengoa":"",
   "bigarrena":"",
   "postrea":"",
-  "ikonoa":"1 5 8"
+  "ikonoa":"1 5 8",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   },
   {
   "eguna":"7",
   "lehengoa":"Dilistak",
   "bigarrena":"Atun enpanadillak",
   "postrea":"Jogurta",
-  "ikonoa":"1 4 8"
+  "ikonoa":"1 4 8",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   },
   {
   "eguna":"8",
   "lehengoa":"Lekak patatekin",
   "bigarrena":"Bakailoa tomatearekin",
   "postrea":"Fruta",
-  "ikonoa":"1 4 7"
+  "ikonoa":"1 4 7",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   },
   {
   "eguna":"11",
   "lehengoa":"Makarroiak tomatearekin",
   "bigarrena":"Errusiar txahal xderra saltsan patata frijituak",
   "postrea":"Fruta",
-  "ikonoa":"1 5 7"
+  "ikonoa":"1 5 7",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   },
   {
   "eguna":"12",
   "lehengoa":"Dilistak gaztelako erara",
   "bigarrena":"Landako tortila tomate freskoa",
   "postrea":"Fruta",
-  "ikonoa":"1 3 7"
+  "ikonoa":"1 3 7",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   },
   {
   "eguna":"13",
   "lehengoa":"Arrain zopa",
   "bigarrena":"Oilasko xerra ogi arrailetan pasatuta piper gorriak",
   "postrea":"Banillazko natillak",
-  "ikonoa":"4 4 8"
+  "ikonoa":"4 4 8",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   },
   {
   "eguna":"14",
   "lehengoa":"Babarrun zuriak",
   "bigarrena":"Granaderoa ogi arrailetan pasatuta egosia",
   "postrea":"Fruta",
-  "ikonoa":"1 4 7"
+  "ikonoa":"1 4 7",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   },
   {
   "eguna":"15",
   "lehengoa":"Entsalada frantsesa",
   "bigarrena":"arroza tomatearekin",
   "postrea":"Fruta",
-  "ikonoa":"1 5 7"
+  "ikonoa":"1 5 7",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   },
   {
   "eguna":"18",
   "lehengoa":"Kalabaza era gazta krema",
   "bigarrena":"Urdaiazpiko xerra arrailetan pasatuta barazkitxoak",
   "postrea":"Fruta",
-  "ikonoa":"1 5 7"
+  "ikonoa":"1 5 7",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   },
   {
   "eguna":"19",
   "lehengoa":"Arroza tomatearekin",
   "bigarrena":"Legatz solomoa labean limoia egosia",
   "postrea":"Jogurta",
-  "ikonoa":"1 4 8"
+  "ikonoa":"1 4 8",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   },
   {
   "eguna":"20",
   "lehengoa":"Txitxirioak",
   "bigarrena":"Patata tortila labean tomate freskoa",
   "postrea":"Fruta",
-  "ikonoa":"1 3 7"
+  "ikonoa":"1 3 7",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   },
   {
   "eguna":"21",
   "lehengoa":"Hegazti eta eltzeko zopa izarrekin",
   "bigarrena":"Txahal zangarra piperradarekin",
   "postrea":"Fruta",
-  "ikonoa":"1 5 7"
+  "ikonoa":"1 5 7",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   },
   {
   "eguna":"22",
   "lehengoa":"Patatak errioxako erara",
   "bigarrena":"Legatz xerra erromatar erara uraza egosia",
   "postrea":"Fruta",
-  "ikonoa":"1 4 7"
+  "ikonoa":"1 4 7",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   },
   {
   "eguna":"F",
   "lehengoa":"",
   "bigarrena":"",
   "postrea":"",
-  "ikonoa":"1 5 8"
+  "ikonoa":"1 5 8",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   },
   {
   "eguna":"26",
   "lehengoa":"Babarrun zuriak",
   "bigarrena":"Arrautza gratinatuak egosia",
   "postrea":"Fruta",
-  "ikonoa":"1 5 7"
+  "ikonoa":"1 5 7",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   },
   {
   "eguna":"27",
   "lehengoa":"Arroza tomatearekin",
   "bigarrena":"Solomo ontzatua plantxan piper gorriak egosia",
   "postrea":"Jogurta",
-  "ikonoa":"1 5 7"
+  "ikonoa":"1 5 7",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   },
   {
   "eguna":"28",
   "lehengoa":"Ilarrak patatekin",
   "bigarrena":"Oilasko hegalak baratxuritan uraza",
   "postrea":"Fruta",
-  "ikonoa":"1 5 7"
+  "ikonoa":"1 5 7",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   },
   {
   "eguna":"29",
   "lehengoa":"Makarroi ekologikoak arrautza egosi eta atunarekin",
   "bigarrena":"Legatz solomoa labean lau urtaroko entsalada",
   "postrea":"Fruta",
-  "ikonoa":"1 4 7"
+  "ikonoa":"1 4 7",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   },
   {
   "eguna":"0",
   "lehengoa":"",
   "bigarrena":"",
   "postrea":"",
-  "ikonoa":"1 5 8"
+  "ikonoa":"1 5 8",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   },
   {
   "eguna":"0",
   "lehengoa":"menestra",
   "bigarrena":"okel egosia",
   "postrea":"yogurta",
-  "ikonoa":"1 5 8"
+  "ikonoa":"1 5 8",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   },
   {
   "eguna":"0",
   "lehengoa":"menestra",
   "bigarrena":"okel egosia",
   "postrea":"yogurta",
-  "ikonoa":"1 5 8"
+  "ikonoa":"1 5 8",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   },
   {
   "eguna":"0",
   "lehengoa":"menestra",
   "bigarrena":"okel egosia",
   "postrea":"yogurta",
-  "ikonoa":"1 5 8"
+  "ikonoa":"1 5 8",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   },
   {
   "eguna":"0",
   "lehengoa":"menestra",
   "bigarrena":"okel egosia",
   "postrea":"yogurta",
-  "ikonoa":"1 5 8"
+  "ikonoa":"1 5 8",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
   }
 ]
 }
