@@ -168,7 +168,7 @@
   "pro":"10"
   },
   {
-  "eguna":"18",
+  "eguna":"22",
   "lehengoa":"Kalabaza era gazta krema",
   "bigarrena":"Urdaiazpiko xerra arrailetan pasatuta barazkitxoak",
   "postrea":"Fruta",
@@ -179,7 +179,7 @@
   "pro":"10"
   },
   {
-  "eguna":"19",
+  "eguna":"23",
   "lehengoa":"Arroza tomatearekin",
   "bigarrena":"Legatz solomoa labean limoia egosia",
   "postrea":"Jogurta",
@@ -190,7 +190,7 @@
   "pro":"10"
   },
   {
-  "eguna":"22",
+  "eguna":"24",
   "lehengoa":"Txitxirioak",
   "bigarrena":"Patata tortila labean tomate freskoa",
   "postrea":"Fruta",
@@ -201,7 +201,7 @@
   "pro":"10"
   },
   {
-  "eguna":"23",
+  "eguna":"25",
   "lehengoa":"Hegazti eta eltzeko zopa izarrekin",
   "bigarrena":"Txahal zangarra piperradarekin",
   "postrea":"Fruta",
@@ -212,7 +212,7 @@
   "pro":"10"
   },
   {
-  "eguna":"24",
+  "eguna":"26",
   "lehengoa":"Patatak errioxako erara",
   "bigarrena":"Legatz xerra erromatar erara uraza egosia",
   "postrea":"Fruta",
@@ -223,7 +223,7 @@
   "pro":"10"
   },
   {
-  "eguna":"25",
+  "eguna":"0",
   "lehengoa":"",
   "bigarrena":"",
   "postrea":"",
@@ -234,33 +234,11 @@
   "pro":"10"
   },
   {
-  "eguna":"26",
+  "eguna":"0",
   "lehengoa":"Babarrun zuriak",
   "bigarrena":"Arrautza gratinatuak egosia",
   "postrea":"Fruta",
   "ikonoa":"1 5 7",
-  "kal":"100",
-  "hc":"50",
-  "lip":"30",
-  "pro":"10"
-  },
-  {
-  "eguna":"0",
-  "lehengoa":"Txitxirioak",
-  "bigarrena":"Patata tortila labean tomate freskoa",
-  "postrea":"Fruta",
-  "ikonoa":"1 3 7",
-  "kal":"100",
-  "hc":"50",
-  "lip":"30",
-  "pro":"10"
-  },
-  {
-  "eguna":"0",
-  "lehengoa":"Txitxirioak",
-  "bigarrena":"Patata tortila labean tomate freskoa",
-  "postrea":"Fruta",
-  "ikonoa":"1 3 7",
   "kal":"100",
   "hc":"50",
   "lip":"30",
