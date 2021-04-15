@@ -1,10 +1,10 @@
 {
 "kodea":"223",
-"hilea":"Martxoa",
+"hilea":"Apirila",
 "egunak":[
   {
   "eguna":"1",
-  "lehengoa":"azalorea patatekin",
+  "lehengoa":"azalorea patatekin eta okela eta mararen janari guztia",
   "bigarrena":"kroketak tomate freskoa",
   "postrea":"fruta",
   "ikonoa":"1 5 8",
@@ -16,7 +16,7 @@
   {
   "eguna":"2",
   "lehengoa":"marmitakoa",
-  "bigarrena":"urdaizpakioa xerra ogi arrailetan pasatuta piper gorriak",
+  "bigarrena":"urdaizpakioa xerra ogi arrailetan pasatuta piper gorriak eta gauza gehiago emango dizkidazu",
   "postrea":"fruta",
   "ikonoa":"1 5 8",
   "kal":"100",
@@ -28,7 +28,7 @@
   "eguna":"3",
   "lehengoa":"espiralak napoliar erara",
   "bigarrena":"patata eta kalabazin tortila uraza",
-  "postrea":"fruta",
+  "postrea":"fruta urdaizpakioa xerra ogi arrailetan pasatuta piper gorriak eta gauza gehiago emango dizkidazu",
   "ikonoa":"1 5 8",
   "kal":"100",
   "hc":"50",
