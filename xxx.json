@@ -3,7 +3,7 @@
 "hilea":"Maiatza",
 "egunak":[
   {
-  "eguna":"3",
+  "eguna":"0",
   "lehengoa":"zerbak molio errearekin",
   "bigarrena":"txahal gisatua barrengorriak",
   "postrea":"fruta",
@@ -17,7 +17,7 @@
   "pro":"10"
   },
   {
-  "eguna":"4",
+  "eguna":"1",
   "lehengoa":"GLUTENIK GABEKO MINESTRONE ZOPA",
   "bigarrena":"TXERRI SOLOMOA PLANTXAN, LAU URTAROKO ENTSALADA",
   "postrea":"fruta",
@@ -31,7 +31,7 @@
   "pro":"10"
   },
   {
-  "eguna":"5",
+  "eguna":"2",
   "lehengoa":"barazki menestra",
   "bigarrena":"arrautza egosiak piperradarerkin",
   "postrea":"jogurta",
@@ -45,7 +45,7 @@
   "pro":"10"
   },
   {
-  "eguna":"6",
+  "eguna":"3",
   "lehengoa":"dilistak",
   "bigarrena":"INDIOILAR BULARKIA PLANTXAN,URAZA",
   "postrea":"fruta",
@@ -59,7 +59,7 @@
   "pro":"10"
   },
   {
-  "eguna":"7",
+  "eguna":"4",
   "lehengoa":"espiralak napoliar erara",
   "bigarrena":"TXERRI SOLOMOA PLANTXAN, URAZA",
   "postrea":"fruta",
@@ -73,8 +73,50 @@
   "pro":"10"
   },
   {
- "eguna":"10",
+ "eguna":"7",
   "lehengoa":"",
+  "bigarrena":"txahal gisatua barrengorriak",
+  "postrea":"fruta",
+  "lehengoaes":"",
+  "bigarrenaes":"",
+  "postreaes":"",
+  "ikonoa":"1 5 8",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
+  },
+  {
+  "eguna":"8",
+  "lehengoa":"zerbak molio errearekin",
+  "bigarrena":"txahal gisatua barrengorriak",
+  "postrea":"fruta",
+  "lehengoaes":"",
+  "bigarrenaes":"",
+  "postreaes":"",
+  "ikonoa":"1 5 8",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
+  },
+  {
+  "eguna":"9",
+  "lehengoa":"zerbak molio errearekin",
+  "bigarrena":"txahal gisatua barrengorriak",
+  "postrea":"fruta",
+  "lehengoaes":"",
+  "bigarrenaes":"",
+  "postreaes":"",
+  "ikonoa":"1 5 8",
+  "kal":"100",
+  "hc":"50",
+  "lip":"30",
+  "pro":"10"
+  },
+  {
+  "eguna":"10",
+  "lehengoa":"zerbak molio errearekin",
   "bigarrena":"txahal gisatua barrengorriak",
   "postrea":"fruta",
   "lehengoaes":"",
@@ -101,7 +143,7 @@
   "pro":"10"
   },
   {
-  "eguna":"12",
+ "eguna":"14",
   "lehengoa":"zerbak molio errearekin",
   "bigarrena":"txahal gisatua barrengorriak",
   "postrea":"fruta",
@@ -115,7 +157,7 @@
   "pro":"10"
   },
   {
-  "eguna":"13",
+ "eguna":"15",
   "lehengoa":"zerbak molio errearekin",
   "bigarrena":"txahal gisatua barrengorriak",
   "postrea":"fruta",
@@ -129,7 +171,7 @@
   "pro":"10"
   },
   {
-  "eguna":"14",
+ "eguna":"16",
   "lehengoa":"zerbak molio errearekin",
   "bigarrena":"txahal gisatua barrengorriak",
   "postrea":"fruta",
@@ -143,7 +185,7 @@
   "pro":"10"
   },
   {
- "eguna":"17",
+  "eguna":"17",
   "lehengoa":"zerbak molio errearekin",
   "bigarrena":"txahal gisatua barrengorriak",
   "postrea":"fruta",
@@ -171,7 +213,7 @@
   "pro":"10"
   },
   {
- "eguna":"19",
+  "eguna":"21",
   "lehengoa":"zerbak molio errearekin",
   "bigarrena":"txahal gisatua barrengorriak",
   "postrea":"fruta",
@@ -185,7 +227,7 @@
   "pro":"10"
   },
   {
-  "eguna":"20",
+ "eguna":"22",
   "lehengoa":"zerbak molio errearekin",
   "bigarrena":"txahal gisatua barrengorriak",
   "postrea":"fruta",
@@ -199,7 +241,7 @@
   "pro":"10"
   },
   {
- "eguna":"21",
+ "eguna":"23",
   "lehengoa":"zerbak molio errearekin",
   "bigarrena":"txahal gisatua barrengorriak",
   "postrea":"fruta",
@@ -241,7 +283,7 @@
   "pro":"10"
   },
   {
- "eguna":"26",
+  "eguna":"28",
   "lehengoa":"zerbak molio errearekin",
   "bigarrena":"txahal gisatua barrengorriak",
   "postrea":"fruta",
@@ -255,7 +297,7 @@
   "pro":"10"
   },
   {
-  "eguna":"27",
+  "eguna":"29",
   "lehengoa":"zerbak molio errearekin",
   "bigarrena":"txahal gisatua barrengorriak",
   "postrea":"fruta",
@@ -269,49 +311,7 @@
   "pro":"10"
   },
   {
- "eguna":"28",
-  "lehengoa":"zerbak molio errearekin",
-  "bigarrena":"txahal gisatua barrengorriak",
-  "postrea":"fruta",
-  "lehengoaes":"",
-  "bigarrenaes":"",
-  "postreaes":"",
-  "ikonoa":"1 5 8",
-  "kal":"100",
-  "hc":"50",
-  "lip":"30",
-  "pro":"10"
-  },
-  {
-  "eguna":"31",
-  "lehengoa":"zerbak molio errearekin",
-  "bigarrena":"txahal gisatua barrengorriak",
-  "postrea":"fruta",
-  "lehengoaes":"",
-  "bigarrenaes":"",
-  "postreaes":"",
-  "ikonoa":"1 5 8",
-  "kal":"100",
-  "hc":"50",
-  "lip":"30",
-  "pro":"10"
-  },
-  {
-  "eguna":"0",
-  "lehengoa":"zerbak molio errearekin",
-  "bigarrena":"txahal gisatua barrengorriak",
-  "postrea":"fruta",
-  "lehengoaes":"",
-  "bigarrenaes":"",
-  "postreaes":"",
-  "ikonoa":"1 5 8",
-  "kal":"100",
-  "hc":"50",
-  "lip":"30",
-  "pro":"10"
-  },
-  {
-  "eguna":"0",
+  "eguna":"30",
   "lehengoa":"zerbak molio errearekin",
   "bigarrena":"txahal gisatua barrengorriak",
   "postrea":"fruta",
