@@ -1,6 +1,6 @@
 {
 "kodea":"212109",
-"hilea":"Iraila",
+"hilea":"Abendua",
 "egunak":[
   {
   "eguna":"0",
@@ -34,33 +34,33 @@
   },
   {
   "eguna":"1",
-  "lehengoa":"barazki menestra xxxyyyy",
-  "bigarrena":"arrautza egosiak piperradarerkin",
-  "postrea":"jogurta",
-  "lehengoaes":"",
-  "bigarrenaes":"",
-  "postreaes":"",
-  "deskribapena":"1 2",
-  "ikonoa":"158",
-  "kal":"100",
-  "hc":"50",
-  "lip":"30",
-  "pro":"10"
-  },
-  {
-  "eguna":"2",
-  "lehengoa":"dilistak",
-  "bigarrena":"INDIOILAR BULARKIA PLANTXAN,URAZA",
+  "lehengoa":"arrosa tomatearekin",
+  "bigarrena":"oilasko hegalak baratxuriarekin",
   "postrea":"fruta",
   "lehengoaes":"",
   "bigarrenaes":"",
   "postreaes":"",
-  "deskribapena":"1 2",
-  "ikonoa":"9 3",
-  "kal":"100",
-  "hc":"50",
-  "lip":"30",
-  "pro":"10"
+  "deskribapena":"",
+  "ikonoa":"",
+  "kal":"791",
+  "hc":"116",
+  "lip":"25",
+  "pro":"40"
+  },
+  {
+  "eguna":"2",
+  "lehengoa":"txitxirioak",
+  "bigarrena":"legatz xerra erromatar erara tomate freskoa",
+  "postrea":"fruta",
+  "lehengoaes":"",
+  "bigarrenaes":"",
+  "postreaes":"",
+  "deskribapena":"",
+  "ikonoa":"3 4 12",
+  "kal":"792",
+  "hc":"88",
+  "lip":"35",
+  "pro":"37"
   },
   {
   "eguna":"3",
